@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace hm6_overload_of_operators
+namespace HW6_C_Sharp
 {
     internal class Program
     {
